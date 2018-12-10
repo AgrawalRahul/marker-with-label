@@ -1,0 +1,10 @@
+{
+  "name": "marker-with-label",
+  "version": "0.0.0",
+  "homepage": "https://github.com/VeeruAgrawal/marker-with-label",
+  "authors": [
+    "Rahul Agrawal <rahul.agrawal@hotcocoasoftware.com>"
+  ],
+  "main": "markerwithlabel.js",
+  "license": "MIT"
+}
